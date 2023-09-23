@@ -1,1 +1,3 @@
 hora mi nombre es samy colombia
+
+hoy sabado estudiando git 
